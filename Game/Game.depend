@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1716399406 source:c:\users\admin\documents\ltnc\btl\game\main.cpp
+	<chrono>
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+
+1713202121 c:\users\admin\documents\ltnc\btl\game\pong.h
+	<SDL.h>
+	"ball.h"
+	"paddle.h"
+
+1713283171 c:\users\admin\documents\ltnc\btl\game\ball.h
+	<SDL.h>
+	<SDL_image.h>
+	<random>
+
+1713284059 c:\users\admin\documents\ltnc\btl\game\paddle.h
+	<SDL.h>
+
+1713708550 source:c:\users\admin\documents\ltnc\btl\game\pong.cpp
+	"pong.hpp"
+
+1713708829 source:c:\users\admin\documents\ltnc\btl\game\ball.cpp
+	"ball.hpp"
+
+1713708703 c:\users\admin\documents\ltnc\btl\game\ball.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<random>
+
+1713708539 source:c:\users\admin\documents\ltnc\btl\game\paddle.cpp
+	"paddle.hpp"
+
+1713708712 c:\users\admin\documents\ltnc\btl\game\pong.hpp
+	<SDL.h>
+	"ball.hpp"
+	"paddle.hpp"
+
+1713708708 c:\users\admin\documents\ltnc\btl\game\paddle.hpp
+	<SDL.h>
+
